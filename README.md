@@ -270,32 +270,90 @@ H --> I[Feedback Submitted]
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
-## Login Page
+<div align="center">
 
-```text
-Add Login Screenshot Here
-```
+## 🔐 Authentication Module
 
-## Admin Dashboard
+<table>
+<tr>
+<td align="center">
+<img src="Screenshots/login-page.png" width="850"/>
 
-```text
-Add Admin Dashboard Screenshot Here
-```
+### Login Page
+Secure authentication for Admin, Doctor and Patient.
+</td>
+</tr>
+</table>
 
-## Doctor Dashboard
+<td align="center">
+<img src="Screenshots/patient-registration.png" width="850"/>
 
-```text
-Add Doctor Dashboard Screenshot Here
-```
+### Patient Registration
+New patients can create their accounts.
+</td>
+</tr>
+</table>
 
-## Patient Dashboard
+<tr>
+<td align="center">
+<img src="Screenshots/doctor-registration.png" width="850"/>
 
-```text
-Add Patient Dashboard Screenshot Here
-```
+### Doctor Registration
+Doctors can register and join the platform.
+</td>
+</tr>
+</table>
 
+---
+
+## 👨‍⚕️ Doctor Module
+
+<table>
+<tr>
+<td align="center">
+<img src="Screenshots/doctor-dashboard.png" width="850"/>
+
+### Doctor Dashboard
+Manage appointments, availability, prescriptions and patient interactions.
+</td>
+</tr>
+</table>
+
+---
+
+## 🧑‍🤝‍🧑 Patient Module
+
+<table>
+<tr>
+<td align="center">
+<img src="Screenshots/patient-dashboard.png" width="850"/>
+
+### Patient Dashboard
+Book appointments, view prescriptions and manage healthcare records.
+</td>
+</tr>
+</table>
+
+---
+
+## 👨‍💼 Admin Module
+
+<table>
+<tr>
+<td align="center">
+<img src="Screenshots/admin-dashboard.png" width="850"/>
+
+### Admin Dashboard
+Centralized control for doctors, patients, appointments and reports.
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 ---
 
 # 🌟 Future Enhancements
